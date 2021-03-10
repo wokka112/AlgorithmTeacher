@@ -70,6 +70,7 @@ namespace AlgorithmTeacher
                     continue;
                 }
 
+                Console.WriteLine();
                 // Input options start from 1, list index starts from 0. So grab the list item at input number - 1.
                 algorithms[inputNo - 1].StartAlgorithm();
             }
