@@ -1,0 +1,7 @@
+D:\NETProjects\AlgorithmTeacher\bin\Debug\AlgorithmTeacher.exe.config
+D:\NETProjects\AlgorithmTeacher\bin\Debug\AlgorithmTeacher.exe
+D:\NETProjects\AlgorithmTeacher\bin\Debug\AlgorithmTeacher.pdb
+D:\NETProjects\AlgorithmTeacher\obj\Debug\AlgorithmTeacher.csprojAssemblyReference.cache
+D:\NETProjects\AlgorithmTeacher\obj\Debug\AlgorithmTeacher.csproj.CoreCompileInputs.cache
+D:\NETProjects\AlgorithmTeacher\obj\Debug\AlgorithmTeacher.exe
+D:\NETProjects\AlgorithmTeacher\obj\Debug\AlgorithmTeacher.pdb
