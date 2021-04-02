@@ -36,3 +36,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * [Algorithms Illuminated]() by Tim Roughgarden for the algorithms in the application so far.
+
+# Attribution
+
+This readme was created with a readme template from [Billie Thompson](https://gist.github.com/PurpleBooth). The readme template is available at https://gist.github.com/PurpleBooth/109311bb0361f32d87a2.
